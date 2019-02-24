@@ -1,0 +1,15 @@
+2.1 | What is an on-demand computing service? Why use this service? 
+        On-demand computing is just as it states. Computing on-demand. Scalability is fast and just about instant. 
+2.2 | When would you use containers? 
+        Containers would be used when complete control of the environment is not needed and/or when you are running multiple apps that require different operating systems.
+2.3 | What is the difference between a container and a VM?
+        Virtual Machines can only run one operating system at a time. They virtualize the hardware. They offer complete control over the environment.
+        Container hosts can run multiple applications easily. They virtualize the operating system. When starting a container, you wait for the app to start - not an OS and the app.
+2.4 | What is the benefit and drawback of Serverless Computing?
+        You do not have to worry about scaling up or down servers (no infrastructure management), and you also only get charged for resources used. A drawback is you don't control the server.
+3.1 | Suppose you work at a startup with limited funding. Why might you prefer Azure data storage over an on-premises solution?
+        Being stored in the cloud, you can use databases located closest to your users. You also don't need to be pay large amounts for infrastructure and its maintenance. Replication, security, and scalability is also eased.
+3.2 | What benefits come from relocating an on-premises data store to Azure?
+        On-premises solutions are often more costly, especially for small businesses/companies. Maintenance, updates, security, etc. can be more difficult, time consuming, and pricey.
+4.1 | What's a virtual network?
+        A virtual network is a "local" network for cloud computing, similar to how a home network is. Resources can communicate securely using a local network, rather than public IPs.

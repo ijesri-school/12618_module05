@@ -1,0 +1,2 @@
+P:\Personal\School\ButlerCC\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\Non-Zipped\ibrahim-jesri_module05\Module05Project1\Module05Project1\obj\Debug\Module05Project1.csprojAssemblyReference.cache
+P:\Personal\School\ButlerCC\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\Non-Zipped\ibrahim-jesri_module05\Module05Project1\Module05Project1\obj\Debug\Module05Project1.csproj.CoreCompileInputs.cache
